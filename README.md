@@ -80,6 +80,9 @@ Developed by a team of 3 — Contributions included frontend development, model 
 
 ---
 
+Dataset link: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
+Download dataset and split into train_split, val_split and test_split.
+
 ## 📜 License
 
 This project is for academic purposes.
