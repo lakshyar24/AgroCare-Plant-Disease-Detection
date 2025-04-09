@@ -68,12 +68,6 @@ All dependencies are listed in `requirements.txt`.
 
 ---
 
-## 👨‍💻 Author
-
-Developed by a team of 3 — Contributions included frontend development, model building, data preprocessing, and multilingual + TTS enhancements.
-
----
-
 ## 📸 Sample UI
 
 ![UI](home_page.jpeg)
